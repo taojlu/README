@@ -195,8 +195,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 自定义锚点：
 <a href="#id_0">你喜欢吃什么水果？</a>
-或者
-你喜欢吃什么水果？(#id_0)
+或者  
+你喜欢吃什么水果？(#id_0)  
 <span id="id_0"/> 苹果
 
 ## 列表
