@@ -194,9 +194,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 > 以前GitHub对中文支持的不好，所以中文标题不能正确识别为锚点，但是现在已经没问题啦！
 
 自定义锚点：
-<a href="#id_0">你喜欢吃什么水果？</a>
-或者  
-你喜欢吃什么水果？(#id_0)  
+<a href="#id_0">你喜欢吃什么水果？</a>   
 <span id="id_0"/> 苹果
 
 ## 列表
